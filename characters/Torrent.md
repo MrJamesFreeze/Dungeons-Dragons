@@ -48,7 +48,7 @@ Lawful Neutral individuals act in accordance with law, tradition, or personal co
 
 **Faith:** Helm, god of protection
 
-
+Helm, also known as the Vigilant One and The Watcher, was the god of guardians, protection, and protectors. He was worshiped by guards and paladins both, long being seen as a cold and focused deity who impartially took the role of defender and sometimes also enforcer.
 
 **Lifestyle:** Comfortable (2GP)
 
