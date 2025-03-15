@@ -68,8 +68,42 @@ Choosing a comfortable lifestyle means that you can afford nicer clothing and ca
 
 ## Personal Characteristics
 
+### Personality Traits
+
+
+
+### Ideals
+
+
+
+### Bonds
+
+
+
+### Flaws
+
 
 
 ## Notes
+
+### Organizations
+
+
+
+### Alies
+
+
+
+### Enemies
+
+
+
+### Backstory
+
+
+
+### Other
+
+
 
 
