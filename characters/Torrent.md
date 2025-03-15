@@ -82,6 +82,8 @@ Choosing a comfortable lifestyle means that you can afford nicer clothing and ca
 
 ## Notes
 
+
+
 ### Organizations
 
 
@@ -99,7 +101,5 @@ Choosing a comfortable lifestyle means that you can afford nicer clothing and ca
 
 
 ### Other
-
-
 
 
