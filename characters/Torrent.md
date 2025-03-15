@@ -61,8 +61,8 @@ Choosing a comfortable lifestyle means that you can afford nicer clothing and ca
 | Hair   | bez vlasů |
 | Skin   | bílé šupiny s ledově modrým nádechem |
 | Eyes   | oranžová duhovka, vertikální zornička |
-| Height | 6,9 stop (210 cm) |
-| Weight | 485 |
+| Height | 6,9 feeet (210 cm) |
+| Weight | 485 lbs (220 kg) |
 | Age    | 28 |
 | Gender | Male |
 
