@@ -12,13 +12,10 @@ Dragonborn look like wingless, bipedal dragons — scaly, bright-eyed, and thick
 
 ### Dragonborn Traits
 
-**Creature Type:** Humanoid
-
-**Size:** Medium (about 5–7 feet tall)
-
-**Speed:** 30 feet
-
-**Draconic Ancestry:** White (Cold) 
+- **Creature Type:** Humanoid
+- **Size:** Medium (about 5–7 feet tall)
+- **Speed:** 30 feet
+- **Draconic Ancestry:** White (Cold) 
 
 ## Subclass: Oath of Vengeance
 
@@ -36,9 +33,8 @@ These paladins share the following tenets:
 
 You spent your formative years traveling between manors and monasteries, performing various odd jobs and services in exchange for access to their libraries. You whiled away many a long evening studying books and scrolls, learning the lore of the multiverse—even the rudiments of magic—and your mind yearns for more.
 
-**Skill Proficiencies:** Arcana, History
-
-**Tool Proficiencies:** Calligrapher's Supplies
+- **Skill Proficiencies:** Arcana, History
+- **Tool Proficiencies:** Calligrapher's Supplies
 
 ## Character Details
 
