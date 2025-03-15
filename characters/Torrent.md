@@ -40,3 +40,36 @@ You spent your formative years traveling between manors and monasteries, perform
 
 **Tool Proficiencies:** Calligrapher's Supplies
 
+## Character Details
+
+**Alignment:** Lawful Neutral
+
+Lawful Neutral individuals act in accordance with law, tradition, or personal codes. Someone who follows a disciplined rule of life—and isn't swayed either by the demands of those in need or by the temptations of evil—is probably Lawful Neutral.
+
+**Faith:** Helm, god of protection
+
+
+
+**Lifestyle:** Comfortable (2GP)
+
+Choosing a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small cottage in a middle-class neighborhood or in a private room at a fine inn. You associate with merchants, skilled tradespeople, and military officers.
+
+## Physical Characteristics
+
+|        |   |
+| ------ | - |
+| Hair   | bez vlasů |
+| Skin   | bílé šupiny s ledově modrým nádechem |
+| Eyes   | oranžová duhovka, vertikální zornička |
+| Height | 6,9 stop (210 cm) |
+| Weight | 485 |
+| Age    | 28 |
+| Gender | Male |
+
+## Personal Characteristics
+
+
+
+## Notes
+
+
