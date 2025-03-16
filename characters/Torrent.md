@@ -38,15 +38,15 @@ You spent your formative years traveling between manors and monasteries, perform
 
 ## Character Details
 
-**Alignment:** Lawful Neutral
+- **Alignment:** Lawful Neutral
 
 Lawful Neutral individuals act in accordance with law, tradition, or personal codes. Someone who follows a disciplined rule of life—and isn't swayed either by the demands of those in need or by the temptations of evil—is probably Lawful Neutral.
 
-**Faith:** Helm, god of protection
+- **Faith:** Helm, god of protection
 
 Helm, also known as the Vigilant One and The Watcher, was the god of guardians, protection, and protectors. He was worshiped by guards and paladins both, long being seen as a cold and focused deity who impartially took the role of defender and sometimes also enforcer.
 
-**Lifestyle:** Comfortable (2GP)
+- **Lifestyle:** Comfortable (2GP)
 
 Choosing a comfortable lifestyle means that you can afford nicer clothing and can easily maintain your equipment. You live in a small cottage in a middle-class neighborhood or in a private room at a fine inn. You associate with merchants, skilled tradespeople, and military officers.
 
