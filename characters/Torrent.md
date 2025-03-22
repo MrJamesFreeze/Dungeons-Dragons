@@ -71,9 +71,7 @@ Na konci této temné cesty stanul před posledním viníkem – vůdcem bandit�
 Plný viny a zmatku se Torrent vydal hledat vykoupení. Na své pouti našel chrám zasvěcený Helmovi, bohu ochrany a spravedlnosti. Kněží ho nevítali s pochvalou, ale ukázali mu cestu zpět na stranu dobra. Torrent přijal Helmovu víru a složil Oath of Vengeance, ale tentokrát s hlubším porozuměním – zavázal se chránit nevinné a bojovat proti zlu spravedlivě, bez nenávisti a slepé zuřivosti.
 Poté, co splnil svou přísahu a vykoupil se, Torrent nalezl nový smysl života. Rozhodl se stát Sagem, učencem, který hledá ztracené vědění a chrání pravdu před těmi, kdo by ji mohli zneužít. Jeho dřívější láska k příběhům o dobrodružství a pokladech se znovu probudila, ale tentokrát sloužila vyššímu cíli. Torrent Pomstichtivec, známý jako strážce moudrosti, se stal symbolem vykoupení, naděje a odvahy čelit nejen vnějším nepřátelům, ale i temnotě ve svém vlastním srdci.
 
-## Notes
-
-Na svých cestách mohl Torrent narazit na mnoho různorodých organizací, které by obohatily jeho příběh a přinesly zajímavé interakce. Zde je několik návrhů, které zahrnují různé typy skupin:
+## Organizace
 
 ### **1. Náboženské řády**
 - **Helmovi kněží:** Torrent už v minulosti našel útočiště v chrámu Helma, ale mohl by narazit na další kněze nebo poutníky sloužící tomuto bohu. Někteří mohli být ochotni ho vést, jiní by mohli zpochybňovat jeho minulost.
