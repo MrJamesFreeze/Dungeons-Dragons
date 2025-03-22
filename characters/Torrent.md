@@ -65,11 +65,16 @@ Choosing a comfortable lifestyle means that you can afford nicer clothing and ca
 ## Backstory
 
 Torrent Pomstichtivec se narodil neobvyklým způsobem – jako vejce nalezené dvěma lidskými městskými strážemi. Tento laskavý pár, který neměl vlastní děti, přijal vejce jako dar od osudu. Když se z vejce vyklubal dračí chlapec s lesklými bílými šupinami, pojmenovali ho Torrent a vychovali ho s láskou a péčí, jako by byl jejich vlastní.
+
 Torrent vyrůstal ve stínu města, jehož obyvatelé se na jeho dračí podobu dívali s různou mírou obav a nedůvěry. Bílá barva jeho šupin, ač krásná, vyvolávala šeptandu o neštěstí či temnotě. Přesto se Torrent vždy mohl spolehnout na pevné vedení svých rodičů, kteří v něm pěstovali smysl pro spravedlnost a ochranu – hodnoty, které sami dodržovali jako městské stráže. I přes diskriminaci si Torrent dokázal najít několik věrných přátel, kteří se stali jeho oporou. Společně si hráli na dobrodruhy a hledali „poklady“, inspirovaní příběhy o legendárních hrdinech.
+
 Všechno se však změnilo jednoho osudného dne, kdy město napadla skupina banditů pod vedením zrádného velitele. Torrent byl svědkem strašlivé ztráty – nejen jeho adoptivní rodiče, ale i přátelé padli při obraně města. Tato tragédie zlomila jeho mladou duši. Poháněn hněvem a bolestí se Torrent vydal na cestu krvavé pomsty, pronásledující všechny, kteří měli spojitost s útokem. Postupně se z něj stával chladnokrevný zabiják, poháněný slepou nenávistí, který nepoznával hranice. Cítil, že odplácí spravedlnost, ale s každou další smrtí ztrácel část sebe.
+
 Na konci této temné cesty stanul před posledním viníkem – vůdcem banditů, který měl na svědomí útok. Když měl možnost zasadit smrtící úder, zastavil se. Pohled do očí svého nepřítele mu ukázal zrcadlo – s hrůzou si uvědomil, že se sám stal monstrem, které kdysi přísahal zničit.
+
 Plný viny a zmatku se Torrent vydal hledat vykoupení. Na své pouti našel chrám zasvěcený Helmovi, bohu ochrany a spravedlnosti. Kněží ho nevítali s pochvalou, ale ukázali mu cestu zpět na stranu dobra. Torrent přijal Helmovu víru a složil Oath of Vengeance, ale tentokrát s hlubším porozuměním – zavázal se chránit nevinné a bojovat proti zlu spravedlivě, bez nenávisti a slepé zuřivosti.
-Poté, co splnil svou přísahu a vykoupil se, Torrent nalezl nový smysl života. Rozhodl se stát Sagem, učencem, který hledá ztracené vědění a chrání pravdu před těmi, kdo by ji mohli zneužít. Jeho dřívější láska k příběhům o dobrodružství a pokladech se znovu probudila, ale tentokrát sloužila vyššímu cíli. Torrent Pomstichtivec, známý jako strážce moudrosti, se stal symbolem vykoupení, naděje a odvahy čelit nejen vnějším nepřátelům, ale i temnotě ve svém vlastním srdci.
+
+Poté, co splnil svou přísahu a vykoupil se, Torrent nalezl nový smysl života. Rozhodl se stát Sagem, učencem, který hledá ztracené vědění a chrání pravdu před těmi, kdo by ji mohli zneužít. Jeho dřívější láska k příběhům o dobrodružství a pokladech se znovu probudila, ale tentokrát sloužila vyššímu cíli. Torrent Pomstichtivec se stal symbolem vykoupení, naděje a odvahy čelit nejen vnějším nepřátelům, ale i temnotě ve svém vlastním srdci.
 
 ## Organizace
 
