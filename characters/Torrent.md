@@ -76,7 +76,7 @@ Plný viny a zmatku se Torrent vydal hledat vykoupení. Na své pouti našel chr
 
 Poté, co splnil svou přísahu a vykoupil se, Torrent nalezl nový smysl života. Rozhodl se stát Sagem, učencem, který hledá ztracené vědění a chrání pravdu před těmi, kdo by ji mohli zneužít. Jeho dřívější láska k příběhům o dobrodružství a pokladech se znovu probudila, ale tentokrát sloužila vyššímu cíli. Torrent Pomstichtivec se stal symbolem vykoupení, naděje a odvahy čelit nejen vnějším nepřátelům, ale i temnotě ve svém vlastním srdci.
 
-## Organizace
+## Organizations (Allies/Enemies)
 
 ### **1. Náboženské řády**
 - **Helmovi kněží:** Torrent už v minulosti našel útočiště v chrámu Helma, ale mohl by narazit na další kněze nebo poutníky sloužící tomuto bohu. Někteří mohli být ochotni ho vést, jiní by mohli zpochybňovat jeho minulost.
